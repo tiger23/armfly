@@ -1,0 +1,26 @@
+{
+	"folders":
+	[
+		{
+			"path": "/I/rt-thread/bsp/armfly"
+		},
+		{
+			"path": "/I/rt-thread/components/drivers"
+		},
+		{
+			"path": "/I/rt-thread/include"
+		},
+		{
+			"path": "/I/rt-thread/libcpu/arm/cortex-m3"
+		},
+		{
+			"path": "/I/rt-thread/src"
+		},
+		{
+			"path": "/I/rt-thread/components/finsh"
+		},
+		{
+			"path": "/I/rt-thread/components/init"
+		}
+	]
+}

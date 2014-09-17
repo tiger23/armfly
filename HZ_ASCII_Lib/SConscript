@@ -1,0 +1,17 @@
+Import('RTT_ROOT')
+Import('rtconfig')
+from building import *
+
+cwd     = os.path.join(str(Dir('#')), 'HZ_ASCII_Lib')
+
+# add the general drvers.
+src = Split("""
+AsciiLib.c
+""")
+
+    
+CPPPATH = [cwd]
+
+group = DefineGroup('HZ_ASCII_Lib', src, depend = [''], CPPPATH = CPPPATH)
+
+Return('group')

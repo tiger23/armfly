@@ -1,0 +1,471 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"R",
+				"RCC_APB2PeriphClockCmd"
+			],
+			[
+				"G",
+				"GPIO_InitStructure"
+			],
+			[
+				"GPIO",
+				"GPIO_InitStructure"
+			],
+			[
+				"0x",
+				"0x01"
+			],
+			[
+				"IS",
+				"ISR"
+			],
+			[
+				"phy_",
+				"dm9000_phy_write"
+			],
+			[
+				"f",
+				"false"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"mk",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"mdkp",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"m",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"MDKP",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"mdk",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"mdpp",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"mdp",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"md",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"pa i",
+				"Package Control: Install Package"
+			],
+			[
+				"pai",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/百度云同步盘/stm32f40x/rtconfig.py",
+		"/C/Users/tiger/AppData/Local/Temp/7zO20D6.tmp/dm9000a.c",
+		"/C/Users/tiger/AppData/Local/Temp/7zOF394.tmp/stm32f10x_it.c",
+		"/G/百度云同步盘/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/USART/HalfDuplex/main.c",
+		"/G/百度云同步盘/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/USART/HalfDuplex/stm32f10x_it.c",
+		"/I/rt-thread/bsp/armfly/applications/application.c",
+		"/F/GitHub/FreeModbus_Slave-Master-RTT-STM32/FreeModbus/port/portserial.c.dump",
+		"/F/GitHub/rt-thread/ChangeLog_CN.md.dump",
+		"/G/快盘/我的资料/ARM/安富莱_STM32开发板V2/05.出厂预装的程序/源代码（存储在CPU内部Flash的程序）/STM32F103ZE-EK_Demo/Demo/source/uip-1.0/stm32/dm9k_uip.c.dump",
+		"/C/Users/tiger/AppData/Local/Temp/7zO4FE0.tmp/dm9k_uip.c",
+		"/J/rt-thread/bsp/stm32f107job/rtconfig.h",
+		"/J/rt-thread/bsp/stm32f107job/drivers/board.c",
+		"/J/rt-thread/bsp/stm32f107job/drivers/board.h",
+		"/J/rt-thread/bsp/stm32f107job/drivers/serial.c",
+		"/J/rt-thread/bsp/stm32f107job/drivers/bsp_led.c",
+		"/J/rt-thread/bsp/stm32f107job/drivers/rs485.c",
+		"/J/rt-thread/bsp/stm32f107job/drivers/serial.h",
+		"/J/rt-thread/bsp/stm32f107job/drivers/usart.c",
+		"/J/rt-thread/bsp/stm32f107job/drivers/can_network.c.dump",
+		"/G/百度云同步盘/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/CAN/DualCAN/stm32f10x_it.c",
+		"/G/百度云同步盘/STM32F10x_StdPeriph_Lib_V3.5.0/Project/STM32F10x_StdPeriph_Examples/CAN/DualCAN/main.c",
+		"/J/rt-thread/bsp/stm32f107job/drivers/can_network.c",
+		"/J/rt-thread/bsp/stm32f107job/drivers/bsp_button.c.dump",
+		"/F/GitHub/rt-thread/components/external/SConscript",
+		"/J/rt-thread/bsp/stm32f107job/drivers/bsp_button.c",
+		"/J/rt-thread/bsp/armfly/rtconfig.py",
+		"/J/rt-thread/bsp/stm32f107job/rtconfig.py",
+		"/G/rt-thread/rt-thread/bsp/stm32f107job/drivers/can_network.c.dump",
+		"/F/Program Files/Sublime Text 2/Data/Packages/SublimeAStyleFormatter/Default (Windows).sublime-keymap",
+		"/G/rt-thread/rt-thread/bsp/stm32f107job/drivers/can_network.c",
+		"/J/rt-thread/bsp/mystm32f103rb/drivers/can.c.dump",
+		"/J/rt-thread/bsp/mystm32f103rb/drivers/can.c",
+		"/I/实验25 CAN收发实验/HARDWARE/CAN/can.c.dump",
+		"/I/实验25 CAN收发实验/HARDWARE/CAN/can.c",
+		"/G/快盘/我的资料/ARM/安富莱_STM32开发板V2/05.出厂预装的程序/源代码（存储在CPU内部Flash的程序）/STM32F103ZE-EK_Demo/Demo/source/uip-1.0/stm32/dm9k_uip.c",
+		"/F/GitHub/rt-thread/ChangeLog_CN.md",
+		"/F/GitHub/FreeModbus_Slave-Master-RTT-STM32/FreeModbus/port/portserial.c",
+		"/F/GitHub/FreeModbus_Slave-Master-RTT-STM32/RT-Thread-1.1.1/components/drivers/serial/serial.c",
+		"/F/GitHub/FreeModbus_Slave-Master-RTT-STM32/README.md",
+		"/F/GitHub/FreeModbus_Slave-Master-RTT-STM32/APP/src/app_task.c.dump",
+		"/F/GitHub/FreeModbus_Slave-Master-RTT-STM32/APP/inc/app_task.h",
+		"/I/rt-thread/bsp/armfly/SConstruct.",
+		"/I/rt-thread/bsp/armfly/applications/SConscript.",
+		"/I/rt-thread/bsp/armfly/SConscript.",
+		"/I/rt-thread/components/net/freemodbus-v1.6.0/port/portserial.c.dump",
+		"/I/rt-thread/components/net/freemodbus-v1.6.0/port/portserial.c",
+		"/I/rt-thread/bsp/armfly/applications/application.c.dump",
+		"/F/GitHub/FreeModbus_Slave-Master-RTT-STM32/APP/src/app_task.c",
+		"/I/rt-thread/bsp/armfly/rtconfig.h",
+		"/I/rt-thread/components/net/freemodbus-v1.6.0/SConscript.",
+		"/G/hexo/source/_posts/在rt-thread下移植lwip到stm32、dm9000a.md",
+		"/G/快盘/我的资料/ARM/freeMODBUS/freemodbus-v1.5.0/demo/BARE/port/porttimer.c",
+		"/G/快盘/我的资料/ARM/freeMODBUS/freemodbus-v1.5.0/demo/BARE/port/portserial.c",
+		"/G/快盘/我的资料/ARM/freeMODBUS/freemodbus-v1.5.0/demo/BARE/demo.c",
+		"/I/rt-thread/bsp/armfly/drivers/dm9000a.c.dump",
+		"/G/快盘/我的资料/ARM/freeMODBUS/freemodbus-v1.5.0/doc/main.dox",
+		"/G/rt-thread/rt-thread/components/net/freemodbus-v1.6.0/SConscript",
+		"/G/rt-thread/rt-thread/COPYING",
+		"/G/rt-thread/rt-thread/README.md",
+		"/G/hexo/source/_posts/git使用.md",
+		"/I/rt-thread/bsp/armfly/drivers/dm9000a.c",
+		"/I/rt-thread/bsp/armfly/drivers/dm9000a.h",
+		"/F/Program Files/Sublime Text 2/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/F/Program Files/Sublime Text 2/Data/Packages/User/C++.sublime-settings",
+		"/F/Program Files/Sublime Text 2/Data/Packages/Alignment/Base File.sublime-settings",
+		"/I/rt-thread/bsp/armfly/drivers/dm9000a.h.dump",
+		"/I/rt-thread/bsp/armfly/drivers/can_network.h.dump",
+		"/I/rt-thread/bsp/armfly/drivers/can_network.h",
+		"/I/rt-thread/bsp/armfly/readme.txt.dump",
+		"/I/rt-thread/bsp/armfly/drivers/spfd5420a.c.dump",
+		"/I/rt-thread/bsp/armfly/drivers/stm32f10x_it.c.dump",
+		"/I/rt-thread/bsp/armfly/drivers/spfd5420a.c",
+		"/I/rt-thread/bsp/armfly/drivers/stm32f10x_it.c",
+		"/I/rt-thread/bsp/armfly/drivers/key.c.dump",
+		"/I/rt-thread/bsp/armfly/drivers/key.c",
+		"/I/ARM/02.安富莱STM32例程（原创）/Ex010-Web服务器_uIP/Source/src/uIP_DM9000/dm9k_uip.c.dump",
+		"/F/Program Files/Sublime Text 2/Data/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings.dump",
+		"/F/Program Files/Sublime Text 2/Data/Packages/SublimeAStyleFormatter/SublimeAStyleFormatter.sublime-settings",
+		"/I/rt-thread/bsp/armfly/drivers/adc.h",
+		"/I/ARM/02.安富莱STM32例程（原创）/Ex010-Web服务器_uIP/Source/src/uIP_DM9000/dm9k_uip.c",
+		"/I/rt-thread/bsp/armfly/drivers/bsp_touch.c.dump",
+		"/I/rt-thread/bsp/armfly/applications/startup.c",
+		"/I/rt-thread/bsp/armfly/drivers/SConscript",
+		"/I/rt-thread/bsp/armfly/drivers/bsp_touch.c",
+		"/I/rt-thread/bsp/mystm32f103rb/applications/application.c.dump",
+		"/I/rt-thread/bsp/mystm32f103rb/applications/application.c",
+		"/I/rt-thread/bsp/armfly/drivers/i2c_ee.c",
+		"/I/rt-thread/bsp/armfly/drivers/i2c_ee.c.dump",
+		"/I/rt-thread/bsp/mystm32f103rb/drivers/ds18b20.c.dump",
+		"/I/rt-thread/bsp/mystm32f103rb/drivers/ds18b20.c",
+		"/G/hexo/themes/pacman/layout/_partial/footer.ejs.dump",
+		"/I/rt-thread/bsp/armfly/armfly-sublime-project.sublime-project",
+		"/F/GitHub/rt-thread/README.md",
+		"/G/hexo/_config.yml",
+		"/G/hexo/themes/pacman/_config.yml",
+		"/G/hexo/themes/pacman/README.md",
+		"/I/ds18b20/DS18B20移植到STM32.md",
+		"/G/hexo/source/_posts/ds18b20驱动移植到stm32上.md",
+		"/G/hexo/themes/pacman/layout/_partial/footer.ejs",
+		"/G/hexo/source/cv-author/index.md",
+		"/C/Users/tiger/Documents/resume-ch.md",
+		"/G/hexo/themes/pacman/source/css/_base/font.styl",
+		"/G/hexo/themes/pacman/source/css/_base/variable.styl",
+		"/G/hexo/themes/pacman/layout/_partial/post/comment.ejs",
+		"/G/hexo/themes/landscape/_config.yml",
+		"/G/hexo/scaffolds/photo.md",
+		"/G/hexo/themes/landscape/README.md",
+		"/G/hexo/source/about/index.md",
+		"/G/hexo/source/_posts/hello-world.md",
+		"/I/DS18B20移植到STM32",
+		"/I/rt-thread在stm32f103ze开发板上的移植.mmd",
+		"/I/rt-thread/bsp/armfly/移植RT-Thread嵌入式OS",
+		"/I/ARM/02.安富莱STM32例程（原创）/Ex010-Web服务器_uIP/Source/src/uIP_DM9000/dm9k_uip.h.dump",
+		"/I/ds18b20.c.dump",
+		"/I/rt-thread/bsp/armfly/drivers/board.c",
+		"/I/ds18b20.h.dump",
+		"/C/Users/tiger/Documents/resume.md",
+		"/C/Users/tiger/AppData/Local/Temp/Temp1_cde9139bc59d8a2a8395a8dd39dd51ff6eb2c050.zip/documentation/roadmap-1.2.0.md",
+		"/C/Users/tiger/AppData/Local/Temp/Temp1_cde9139bc59d8a2a8395a8dd39dd51ff6eb2c050.zip/README.md",
+		"/G/user/Downloads/syntax.md",
+		"/F/Program Files/Sublime Text 2/Data/Packages/User/Markdown (Standard).sublime-settings",
+		"/I/ds18b20.h",
+		"/I/ds18b20.c",
+		"/I/rt-thread/bsp/armfly/drivers/board.c.dump",
+		"/I/ARM/02.安富莱STM32例程（原创）/Ex010-Web服务器_uIP/Source/src/uIP_DM9000/dm9k_uip.h",
+		"/I/ARM/STM32库开发实战指南/14-野火M3-LWIP1.3.2/野火M3-以太网-LwIP1.3.2/enc28j60/ENC28J60.C.dump",
+		"/I/ARM/STM32库开发实战指南/14-野火M3-LWIP1.3.2/野火M3-以太网-LwIP1.3.2/enc28j60/ENC28J60.C",
+		"/I/ARM/STM32库开发实战指南/第三部分/第24章/书例_野火M3-LWIP1.3.2.rar"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"CAN_ID_EXT",
+			"RxMessage",
+			"g_tCanTxMsg",
+			"g_tCanRxMsg",
+			"RxMessage",
+			"TxMessage",
+			"extern",
+			"d",
+			"etherdev_send",
+			"dm9k_receive_packet",
+			"dm9k_hash_table",
+			"DELAY_MB_SLAVE_POLL",
+			"eMBInit",
+			"dm9000_phy_write",
+			"dm9000_phy_read",
+			"0x",
+			"BMSR",
+			"BMCR ",
+			"DSCSR",
+			"PWDOR",
+			"dm9000_device.dev_addr",
+			"ior",
+			"GPCR",
+			"GPR",
+			"iow",
+			"NCR_RST",
+			"dm9000_reset",
+			"d",
+			"DM9000_REG_IMR",
+			"DM9000_REG_MAR",
+			"dm9000_debug_test",
+			"phy_read",
+			"phy_write",
+			"9k",
+			"9K",
+			"9k",
+			"iow",
+			"DM9000A_FLOW_CONTROL",
+			"dm9000_io_read",
+			"dm9000_io_write",
+			"IO",
+			"io",
+			"IO",
+			"io",
+			"IO",
+			"io",
+			"IO",
+			"io",
+			"IO",
+			"io",
+			"IO",
+			"io",
+			"IO",
+			"io",
+			"IO",
+			"io",
+			"DS_PRECISION",
+			"2",
+			"front-matter",
+			"zippera",
+			"Fix_Note_Address",
+			"rt_dm9000_init",
+			"100M full duplex ",
+			"DM9000_REG_IMR",
+			"rt_dm9000_isr",
+			"",
+			"■ ",
+			"nus",
+			"ow_crc",
+			"ow_reset",
+			"write_bit",
+			"0xF0",
+			"write_byte",
+			"delay",
+			"read_bit",
+			"DS18B20_Num",
+			"0xF0",
+			"OWReset",
+			"OWWriteBit",
+			"OWReadBit",
+			"OWWriteByte",
+			"Delay_US",
+			"DS18B20_ReadData",
+			"DS18B20_WriteData",
+			"s16",
+			"u8",
+			"DS18B20_WriteData",
+			"MAXNUM",
+			"uint",
+			"u8",
+			"ResetDS18B20",
+			"DS18B20WriteByte",
+			"DS18B20ReadByte",
+			"DS18B20WriteBit",
+			"DS18B20ReadBit",
+			"uin",
+			"u8",
+			"UB8",
+			"DS18B20_Configuration",
+			"dm9000_device.mode",
+			");\n",
+			"dm9000_device.mode",
+			"dm9k_initnic",
+			"lnk",
+			"operating at unknown",
+			"rt_dm9000_init",
+			"DEV",
+			"dev",
+			"Dev",
+			"dev",
+			"DM9000_MAR",
+			"DM9000_GPCR",
+			"DM9000_PID",
+			"DM9000_VID",
+			"int_status",
+			"last_io",
+			"DM9000_GPCR",
+			"DM9000_EPDRL",
+			"DM9000_EPDRH",
+			"DM9000_EPCR",
+			"DM9000_EPAR",
+			"DM9000_GPR",
+			"DM9000_IMR",
+			"DM9000_ISR",
+			"DM9000_RCSSR",
+			"DM9000_CSCR",
+			"DM9000_CHIPR",
+			"DM9000_ROCR"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"dm9000_phy_read",
+			"dm9000_phy_write"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rt",
+				"armfly/rtconfig.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

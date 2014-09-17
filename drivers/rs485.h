@@ -1,0 +1,61 @@
+#ifndef __RS485_H__
+#define __RS485_H__			 
+#include <drivers\serial.h>	 								  
+//////////////////////////////////////////////////////////////////////////////////	 
+//日期:2014-8-14
+//作者:ASTiger
+//RS485驱动 代码	   
+//////////////////////////////////////////////////////////////////////////////////
+	  		  	
+extern u8 RS485_RX_BUF[64]; 		//接收缓冲,最大64个字节
+extern u8 RS485_RX_CNT;   			//接收到的数据长度
+
+struct serial_rs485
+{
+    struct rt_device                rs485_device;
+    struct rt_serial_device *       rt_serial_device;
+};
+
+struct rx_msg
+{
+	rt_device_t dev;
+	rt_size_t size;
+};
+/*用于接收消息的消息队列*/
+static rt_mq_t rx_mq;
+/*接收缓冲*/
+static char rs485_rx_buffer[64];
+#define DELAY_RS485_POLL    5
+//模式控制
+#define PA1_RS485_TX_EN		GPIO_SetBits(GPIOD,GPIO_Pin_4)	//485模式控制.0,接收;1,发送.
+#define PA1_RS485_RX_EN		GPIO_ResetBits(GPIOD,GPIO_Pin_4)
+#define PB8_RS485_TX_EN		GPIO_SetBits(GPIOB,GPIO_Pin_8)	//485模式控制.0,接收;1,发送.
+#define PB8_RS485_RX_EN		GPIO_ResetBits(GPIOB,GPIO_Pin_8)
+#define PC9_RS485_TX_EN		GPIO_SetBits(GPIOC,GPIO_Pin_9)	//485模式控制.0,接收;1,发送.
+#define PC9_RS485_RX_EN	    GPIO_ResetBits(GPIOC,GPIO_Pin_9)
+//如果想串口中断接收，请不要注释以下宏定义
+#define EN_USART2_RX 	1			//0,不接收;1,接收.
+
+void RS485_GPIO_Config(void);
+void RS485_Send_Data(const char *name, rt_size_t length);
+void RS485_Receive_Data(const char *name,u8 *buf, rt_size_t length);
+void rt_hw_RS485_init(void);
+void RS485Poll(void);
+
+#endif	   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
